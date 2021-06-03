@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The King of Great-Brittaines declaration to the High &amp; Mighty Lords the States Generall of the Vnited Provinces : exhibited by Sir William Boswell, His Majesties resident, the 9 Iune, 1643.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18973</idno><idno type="EEBO-CITATION">18848776</idno>
+  <idno type="VID">205405</idno>
+  <idno type="EEBO-PROQUEST">2248573932</idno>
+  
+            <idno type="STC">Wing C2277</idno>
+            <idno type="OCLC">18848776</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18973)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205405)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1664:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The King of Great-Brittaines declaration to the High &amp; Mighty Lords the States Generall of the Vnited Provinces : exhibited by Sir William Boswell, His Majesties resident, the 9 Iune, 1643.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by His Majesties authority,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">United Provinces of the Netherlands. --  Staten Generaal.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205405:1"/>
+            <p>THE KING <hi>Of</hi> GREAT-BRITTAINES <hi>DECLARATION,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o the High &amp; Mighty Lords the States Generall of the Vnited Provinces.</p>
+            <p>
+               <hi>Exhibited by Sir</hi> William Boswell, <hi>his Majesties Resident, The</hi> 9 <hi>Iulie,</hi> 1643.</p>
+            <p>Printed by his Majesties Authority, 1643.</p>
+            <figure>
+               <figDesc>arms of Charles I</figDesc>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:205405:2"/>
+            <pb facs="tcp:205405:2"/>
+            <head>TO THE HIGH AND MIGHTIE LORDS, OUR GOOD FRIENDS AND ALLIES, THE STATES GENERALL OF THE UNITED PROVINCES IN THE NETHERLANDS.</head>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Igh and Mightie Lords, Our good Freinds and Allies. So soone as Wee under<g ref="char:EOLhyphen"/>stood, that both Our Houses of Parliament had dispatcht over unto You (upon the difference betwixt them and Vs) one <hi>Strickland</hi> in qualitie of <hi>publick Minister;</hi> Wee gave order to Our Resident with you to disavow him. Notwithstanding whih Wee understand You have since received, and treated with him. Wherein two things seeme verie strange to Us; The one, that Our owne Subjects (upon pretence of affecting a nearer alliance with you) should in a way, different from the modestie, practice and dutie of their Praedecessours, take upon them to treate with Forraine States. When it is a knowne law of England, that to the King onelie belongeth the making of peace and warre. The other, that You Our neare Allies, that know both Your selves, and all the Kings and States of the World, have ever treated with Us and Our Prae<g ref="char:EOLhyphen"/>decessours, and with Us onely. You, who from the Kings of En<g ref="char:EOLhyphen"/>gland received your old, and never to be forgotten Assistances, should admit this man so much to Our dishonour; It being a set<g ref="char:EOLhyphen"/>ting up of an equall or a Concurrent Authoritie with Our owne;
+<pb facs="tcp:205405:3"/> and thus favour the imprudence of Our Subjects by doing an injury to Us.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>It is generallie knowne Wee called this Parliament of Our owne Gracious &amp; Princelie desire, to heare and redresse the Grie<g ref="char:EOLhyphen"/>vances of Our people: Wee need not enumerate (but if occasion be Wee leave it to Our Resident) the manie good Acts Wee have granted therein, to secure Our Subjects in the future. No<g ref="char:EOLhyphen"/>thing, which either in <hi>Church</hi> or <hi>State</hi> was for their Ease having occasioned any difference betwixt Us: But onely their praeten<g ref="char:EOLhyphen"/>ce to those Powers in Gouvernement, which solely and natural<g ref="char:EOLhyphen"/>ly reside in Us. And yet wee parted with more flowers of Our Prerogative, then did ever any of Our Praedecessours.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>If they would it becomes Vs not to forget: and Wee hope you doe, or by this will know, that Parliaments here are called onely by Our Mandat. To give Us Counsell. That they take an Oath of <hi>Allegiance</hi> in Civill, of <hi>Supremacy</hi> in Ecclesiasticall af<g ref="char:EOLhyphen"/>faires to Us. That that Court is still dissolvable at the Pleasure of the King; which expresses it can have no constant care of this Kingdome; though Our unhappy indulgence to this Parliament (the occasion wee feare of most of this evill) may seeme to have given an indefinite time to this. And yet the very words of that Act, shewes the continuance thereof, depends onely, upon the dispatch of some particular businesses. To use their owne Ex<g ref="char:EOLhyphen"/>pression in a Remonstrance of theirs upon that subject, <hi>In the Bill for the continuance of this present Parliament,</hi> (they say) <hi>there seemes to be some restraint of the Royall power in dissolving of Parliaments; which indeed is not to take it out of the Crowne, but to suspend the execution of it for a time and occasion onely.</hi> So then surely, If there bee a Parli<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:205405:3"/> to continue somewhat longer at home then ordinary, it al<g ref="char:EOLhyphen"/>ters not the way of Gouvernment; nor opens any doore for for<g ref="char:EOLhyphen"/>raine Treaties abroad; other then the ancient knowne way of treating with the Kings of England onely. How great a breach therefore of the Treaty betwixt Us and your selves this procee<g ref="char:EOLhyphen"/>ding is, thus to countenance such a commixture of Gouvern<g ref="char:EOLhyphen"/>ment, as one while to treat with Us, another while with Our Su<g ref="char:EOLhyphen"/>bjects; or, as you doe now, both together, Wee have authorized Our Resident to declare unto You; And to let you know wee intend to proceed both against this <hi>Strickland,</hi> or any other, that without Our Authority shall negotiate, as he doth, as a Traitour to Our Crowne and dignity.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>And as in the perticulars aforesaid, So likewise Wee under<g ref="char:EOLhyphen"/>stand, how Our Honour is scandalized by sundry pamphlets and Bookes, divulged amongst Your subjects, of Our inclinations to Popery, and intentions of innovation in Religion. Wee call God to witnes, and Wee hope Our knowne practice as well as Our Professions are evidences thereof. That wee shall ever maintaine the Reformed Religion, as it is established by law, in Our Kingdomes. That wee shall discountenance, and accor<g ref="char:EOLhyphen"/>ding to Law punish Poperie, and other Sects. And yet be ready to give ease, by a <hi>Nationall Synode</hi> to modest, and truely tender Consciences in any thing, by them found justly offensive. Wee are informed it is reported, nay beleeved, that Masse is public<g ref="char:EOLhyphen"/>ly said at <hi>York</hi> and in Our Army, under the command of the <hi>Earle of Newcastle;</hi> When in truth, without it being Our Queen's Chap<g ref="char:EOLhyphen"/>pel, which is according to the Treaty with Our Brother the French King, no where in England Masse is, or shall be public<g ref="char:EOLhyphen"/>ly said: Nay if any where it be privatly discovered, it is duely punished. And in the said Armie, under the <hi>Earle of Newcastle,</hi> the fiftieth man is not a Papist; and were it not for the Rebellion of
+<pb facs="tcp:205405:4"/> those <hi>praetended Protestants,</hi> but indeed <hi>Sectaries;</hi> not one of them had been admitted; and yet there is, or shall be no other Forme of prayer there, but that of the Church of England, as it is esta<g ref="char:EOLhyphen"/>blished.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>Wee understand likewise, that either by connivence or stealth, by meanes of the aforesaid <hi>Strickland</hi> (whom likewise wee have cause to think very active in the Printing, and dispersing of the aforesaid Pamphlets) great store of armes and ammunition are daily sent over to Our Rebells here; and that now when their oppression upon Our Subjects is growne generally so odious, that most men within their power suffer themselves rather to be imprisoned in their persons, and robbed and plundered in their goods, then submit to their new authority; Because even the disaffectedst of Our owne Subjects are ashamed, or dare not buy those goods, Your Subjects buy and transport them. Herein likewise Wee have commanded Our Resident, to expresse Our just sense of these injuries, and to seek from You (the States) a praevention and prohibition thereof.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>When we consider Our owne Right, the former and the late successes God hath given us, in Our severall Armies. How at this time the most of Our Nobility, the greatest part of Our Gen<g ref="char:EOLhyphen"/>try, the multitude of Our gravest Citizens, the learnedst and most pious Divines doe all accompanie to assist Us, or are em<g ref="char:EOLhyphen"/>ployed in Our services. Wee doubt not, ere long, what ever Our, or Our loyall Subjects sufferings are, to reduce these Inno<g ref="char:EOLhyphen"/>vatours, within the Bounds of the ancient modestie of their Predecessours. In the meane time We expect from You, Our Friends and Allies, in all the former particulars, Or what else
+<pb facs="tcp:205405:4"/> may concerne Our Honour, and loyall Subjects wellfare, ac<g ref="char:EOLhyphen"/>cording to the Treaty betwixt Us, to promote the same; Ex<g ref="char:EOLhyphen"/>pecting You should be as carefull of Our Honour and just Rights as Wee would be of Yours; For Wee know not even by the working of the same spirits, how soone this may be needfull even in your owne Behalf. Since wee find, if wee mistake not much, those that have disturbed Our peace, are invading yours.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>Wee do containe these Complaints with in these few lines; Because Wee are loth to discover the distemper in that part of Our Great Counsell, which as yet will not rightly understand Vs, as the greatest part well doth, and is abiding with Vs. That You may see how wee wash Our Hands of this unnaturall warre, and what conditions Wee offer towards peace, and for suppres<g ref="char:EOLhyphen"/>sing Popery, Wee have (as wee referre You to Our Resident, for former) sent You Our last message [12 <hi>April</hi>] upon these Sub<g ref="char:EOLhyphen"/>jects. And doubt not these things will so satisfie you, that Wee shall receive full satisfaction from You, by some publick Acts in all these particulars complained of, and be induced to entertaine, and encrease such an Alliance and Friendship with You, as is sui<g ref="char:EOLhyphen"/>table to Our desires, and the Engagement Wee gave You there<g ref="char:EOLhyphen"/>of, upon Your Ambassies, in Our beloved Daughter; which as You sought as a Match between the two Countries, So Wee disposed Her.</p>
+            </div>
+            <closer>
+               <dateline>Given under Our Signet at Our Court at <hi>Oxford</hi>
+                  <date>the first day of May, in the XIX yeare of Our Reigne.</date>
+               </dateline>
+               <signed>
+                  <hi>Your very good Friend</hi> CHARLES R.
+<figure>
+                     <head>L. S.</head>
+                     <figDesc>depiction of seal</figDesc>
+                  </figure> Was sealed with his Majesties Signet.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
